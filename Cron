@@ -1,0 +1,5 @@
+#!/bin/bash
+while true
+do
+wget --quiet -O /dev/null https://site.com/cron
+sleep 15
